@@ -275,6 +275,8 @@
 | Bot | Description |
 |---|---|
 | [TemporaryEmailBot](https://t.me/TemporaryEmailBot) | A Bot Which Can Generate Temporary Emails. |
+| [TmpMailBot](https://t.me/tmpmailbot) | Your Temporary Email box |
+| [MailAbleBot](https://t.me/mailableBot) | A temporary mail inbox |
 | [DropMailBot](https://t.me/DropMailBot) | DropMail.me in Telegram |
 
 ### Telegram Utility Bots
