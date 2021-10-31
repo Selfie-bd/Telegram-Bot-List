@@ -230,7 +230,7 @@
 | Bot | Description |
 |---|---|
 | [Song_Downloader_RoBot](https://t.me/Song_Downloader_RoBot) | |
-| [NAZRIYASONGBOT](https://t.me/NAZRIYASONGBOT) | A bot that can download songs from YouTube via telegram And also download thumbnail of a yt video |
+| [NAZRIYASONGBOT](https://t.me/NAZRIYASONGBOT) | A bot that can download songs and videos from YouTube via telegram And also download thumbnail of a yt video |
 
 ### Force Subscribe Bots
 
