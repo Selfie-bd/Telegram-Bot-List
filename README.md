@@ -235,7 +235,7 @@ A collection of telegram bots
 | Bot | Description |
 |---|---|
 | [Song_Downloader_RoBot](https://t.me/Song_Downloader_RoBot) | |
-| [NAZRIYASONGBOT](https://t.me/NAZRIYASONGBOT) | A bot that can download songs and videos from YouTube via telegram And also download thumbnail of a yt video |
+| [NAZRIYASONGBOT](https://t.me/NAZRIYASONGBOT) | A bot that can download songs and videos from YouTube via telegram And also download thumbnail of a yt video and can make text to speech |
 
 ### Force Subscribe Bots
 
@@ -256,6 +256,7 @@ A collection of telegram bots
 |---|---|
 | [chnlidbot](https://t.me/chnlidbot) | To get channel ID of channels |
 | [Footer_Bot](https://t.me/Footer_Bot) | To add footer text in channel posts |
+| [MT_ID_BOT](https://t.me/MT_ID_BOT) | A bot to find id of a forward user, channel and gets id of a sticker, User and bot and also extract json. | 
 
 ### PDF Bots
 
